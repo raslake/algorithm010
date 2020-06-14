@@ -1,4 +1,4 @@
-##python3
+##python3 旋转数组
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
         n = len(nums)
