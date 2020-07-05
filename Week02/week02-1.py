@@ -1,4 +1,4 @@
-##python3 两数之和
+##python 两数之和
 class Solution(object):
     def twoSum(self, nums, target):
         lens = len(nums)
